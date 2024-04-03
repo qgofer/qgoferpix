@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "qgoferpix"
+  site-url: "https://qgofer.github.io/qgoferpix"
+  description: "easily search through your images using natural language queries"
+  repo-branch: main
+  repo-url: "https://github.com/qgofer/qgoferpix"
