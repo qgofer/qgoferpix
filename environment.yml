@@ -1,0 +1,7 @@
+name: qgoferpix
+channels:
+  - defaults
+dependencies:
+  - python
+  - jupyterlab
+  - nbdev
