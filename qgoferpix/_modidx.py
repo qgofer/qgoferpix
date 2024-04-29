@@ -5,4 +5,4 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://qgofer.github.io',
                 'git_url': 'https://github.com/qgofer/qgoferpix',
                 'lib_path': 'qgoferpix'},
-  'syms': {'qgoferpix.core': {'qgoferpix.core.foo': ('get_text_from_image.html#foo', 'qgoferpix/core.py')}}}
+  'syms': {'qgoferpix.core': {}}}
