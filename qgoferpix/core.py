@@ -6,3 +6,5 @@ __all__ = []
 # %% ../nbs/01_imagefile_database.ipynb 3
 from qgoferutils.config import QGoferConfig
 from qgoferutils.manage_index import index_folders
+from qgoferutils.db import QGoferDBWrapper
+from pathlib import Path
